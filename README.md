@@ -19,10 +19,17 @@ Used MySQL Database in this example. R2DBC Supported mysql driver
 Spring Configs:
 
 spring.r2dbc.protocol=mysql
+
 spring.r2dbc.url=r2dbc:mysql://localhost
+
 spring.r2dbc.user=root
+
 spring.r2dbc.pswd=1008
+
 spring.r2dbc.schema=r2dbcl
+
 spring.r2dbc.pool.max=15
+
 spring.r2dbc.pool.initial=10
+
 spring.r2dbc.host=localhost
