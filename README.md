@@ -1,6 +1,6 @@
 # spring-reactive r2dbc application
 
-This spring boot app demonstrates the usage of reactive database which supports non blocking reactive jdbc driver (r2dbc.io).
+This spring boot app demonstrates the usage of reactive database which supports non blocking reactive jdbc driver (<a href="r2dbc.io">r2dbc.io</a>).
 
 - R2DBC implements reactive streams and offers fully non blocking interfaces to interact with the database
 - POJO Based Support
